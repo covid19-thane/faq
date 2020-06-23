@@ -1,4 +1,4 @@
-<img src="https://img.icons8.com/office/50/000000/coronavirus.png"/>
+<img src="https://raw.githubusercontent.com/covid19-thane/covid19-thane.github.io/master/icon.png"/>
 
 <div>
  
