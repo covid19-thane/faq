@@ -1,15 +1,11 @@
 <img src="https://raw.githubusercontent.com/covid19-thane/covid19-thane.github.io/master/icon.png"/>
-
-<div>
- 
-[![Viewers](http://hits.dwyl.com/covid19-thane/covid19-thanegithubio.svg)](http://hits.dwyl.com/covid19-thane/covid19-thanegithubio)
-</div>
+<img src="http://hits.dwyl.com/covid19-thane/covid19-thanegithubio.svg"/>
 
 # Corona Virus Situation in Thane District, India.
 
 This is An Unoffical Covid-19 Dashboard  for Ambarnath (AMC) , Badlapur (KBMC) , Bhiwandi , Kalyan & Dombivli (KDMC) , Mira Bhayandar (MBMC) , Navi Mumbai (NMMC) ,Thane (TMC) , Ulhasnagar (UMC).
 
-# FAQ
+# FAQ :-
 
 1.Are you official?
 -----------------
@@ -94,7 +90,7 @@ Ulhasnagar (UMC) :-
 
 [Following Twitter Users](https://twitter.com/Covid19Thane/following)
 
-# Social
+# Social :-
 
 [Dashboard](https://covid19-thane.github.io)
 
@@ -106,5 +102,4 @@ Ulhasnagar (UMC) :-
 
 [Telegram](https://t.me/Covid19Thane)
 
-# Contact Me
-[Rushi Ranpise](https://t.me/rushiranpise)
+# [Contact Me](https://t.me/rushiranpise)
