@@ -11,9 +11,9 @@ This is An Unoffical Covid-19 Dashboard  for Ambarnath (AMC) , Badlapur (KBMC) ,
 -----------------
 No :/
 
-2.New Cases are shown Zero!
+2.New Cases are not being shown!
 -
-Yes, while the data is being updated, dashboard shows 0 new cases!
+Yes, while the data is being updated, dashboard shows ( ↑ 🔃 ) instead of new cases!
 So please visit back after some time. Usually it is due to delayed press reports.
 
 3.Are the Numbers on the Dashboard Real or Fake?
