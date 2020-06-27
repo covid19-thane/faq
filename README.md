@@ -1,10 +1,5 @@
 <img src="https://raw.githubusercontent.com/covid19-thane/covid19-thane.github.io/master/icon.png"/>
-<img src="http://hits.dwyl.com/covid19-thane/covid19-thanegithubio.svg"/>
-<head>
-	<meta charset="UTF-8">
-	<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-  <link rel="shortcut icon" href="https://raw.githubusercontent.com/covid19-thane/covid19-thane.github.io/master/icon.png" type="image/x-icon">
-  </head>
+<img src="https://hits.dwyl.com/covid19-thane/covid19-thanegithubio.svg"/>
 
 # Corona Virus Situation in Thane District, India.
 
