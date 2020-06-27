@@ -1,5 +1,10 @@
 <img src="https://raw.githubusercontent.com/covid19-thane/covid19-thane.github.io/master/icon.png"/>
 <img src="http://hits.dwyl.com/covid19-thane/covid19-thanegithubio.svg"/>
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <link rel="shortcut icon" href="https://raw.githubusercontent.com/covid19-thane/covid19-thane.github.io/master/icon.png" type="image/x-icon">
+  </head>
 
 # Corona Virus Situation in Thane District, India.
 
@@ -28,9 +33,18 @@ Mostly till 9pm, But due to delay in press reports it may vary.
 -
 [Here](https://covid19-thane.github.io/#source)
 
-6.The dashboard is showing wrong numbers!
+6.Thane District total is not matching the table total?
 -
-Contact me to fix it :)
+Its because the dashboard shows only major cities and in district total small area/cities are also included.
+Moreover you can check the numbers [here](https://experience.arcgis.com/experience/8167a61f882a4af4b9098e947dfd589f/)
+
+7.XYZ City's Press note is not shown!
+-
+Because Its not available.
+
+8.The dashboard is showing wrong numbers!
+-
+Contact me to fix it, might be a human error! :)
 
 # Municipal Corporation Sites :-
 
