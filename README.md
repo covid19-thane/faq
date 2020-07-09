@@ -7,29 +7,21 @@ This is An Unoffical Covid-19 Dashboard  for Ambarnath (AMC) , Badlapur (KBMC) ,
 
 # Specific :-
 
-Ambarnath
-http://covid19-thane.github.io/ambarnath
+[Ambarnath](http://covid19-thane.github.io/ambarnath)
 
-Badlapur
-http://covid19-thane.github.io/badlapur
+[Badlapur](http://covid19-thane.github.io/badlapur)
 
-Bhiwandi
-http://covid19-thane.github.io/bhiwandi
+[Bhiwandi](http://covid19-thane.github.io/bhiwandi)
 
-KDMC
-http://covid19-thane.github.io/kdmc
+[KDMC](http://covid19-thane.github.io/kdmc)
 
-Mira Bhayandar
-http://covid19-thane.github.io/mbmc
+[Mira Bhayandar](http://covid19-thane.github.io/mbmc)
 
-Navi Mumbai
-http://covid19-thane.github.io/navimumbai
+[Navi Mumbai](http://covid19-thane.github.io/navimumbai)
 
-Thane
-http://covid19-thane.github.io/thane
+[Thane](http://covid19-thane.github.io/thane)
 
-Ulhasnagar
-http://covid19-thane.github.io/ulhasnagar
+[Ulhasnagar](http://covid19-thane.github.io/ulhasnagar)
 
 # Social :-
 
@@ -82,14 +74,17 @@ Total - Recovered - Deaths = Active
 9.How are Percentage Calculated?
 -
 Active   - (Active/Total)*100
+
 Recovery - (Recovery/Total)*100
+
 Deaths   - (Deaths/Total)*100
 
-Note:- For Recovery% Thane does (Recovery/(Total-Deaths)]*100 So,it may slightly differ .
+Note:- For Recovery % Thane does (Recovery/(Total-Deaths)]*100 So,it may slightly differ ....
 
 10.The dashboard is showing wrong numbers!
 -
-Well,Chances are low... But,still............
+Well,Chances are low...  
+But,still............
 Contact me to fix it, might be a human error! :)
 
 # Municipal Corporation Sites :-
